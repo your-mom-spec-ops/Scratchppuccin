@@ -1,6 +1,6 @@
 # Scratch Catppuccin
 Catppuccin Mocha for Scratch using Scratch Addons
-(I am too lazy to make a version I won't use...)
+(I am not making a non-mocha theme *right now*)
 
 
 # INSTALL INSTRUCTIONS
