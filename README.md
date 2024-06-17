@@ -5,8 +5,15 @@ Catppuccin Mocha for Scratch using Scratch Addons
 
 # INSTALL INSTRUCTIONS
 (Pictures are from Firefox [Technically Librewolf])
+First, choose your version of this. One is 'My Settings', which **may not** always represent my current settings, but has more than just the theme. The other is 'Just Catppuccin', which is literally, just Catppuccin.
 
-Click on the Scratch Addons icon (It may be hidden)
+
+
+Next, download your version from the releases page.
+
+
+
+Next, click on the Scratch Addons icon (It may be hidden)
 
 
 
