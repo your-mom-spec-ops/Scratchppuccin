@@ -10,7 +10,7 @@ Click on the Scratch Addons icon (It may be hidden)
 
 
 
-<img width="500" alt="T1" src="https://github.com/your-mom-spec-ops/Scratchppuccin/assets/117489566/132330b6-587b-476e-90b4-411796a6b24d">
+<img width="500" alt="T1" src="https://github.com/your-mom-spec-ops/Scratchppuccin/assets/117489566/609dc537-c1f0-47a4-adbb-c8237d07b3d7">
 
 
 
