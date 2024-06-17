@@ -14,4 +14,16 @@ Click on the Scratch Addons icon (It may be hidden)
 
 
 
-Next, click the settings cogwheel.
+Next, click the settings cogwheel. (It should result in a new tab.)
+
+
+
+<img width="500" alt="T2" src="https://github.com/your-mom-spec-ops/Scratchppuccin/assets/117489566/45437e65-5bcb-4f80-8db4-7ecf31aebf10">
+
+
+
+Next, click on more settings.
+
+
+
+<img width="500" alt="T3" src="https://github.com/your-mom-spec-ops/Scratchppuccin/assets/117489566/aeeeeced-56ae-4ab6-a641-a60f122c4acd">
