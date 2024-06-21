@@ -1,6 +1,6 @@
 # Scratch Catppuccin
-Catppuccin (Now in all four flavours!) for Scratch using Scratch Addons
-(*this will possibly be integrated into Catppuccin (organisation) proper*)
+Catppuccin for Scratch using Scratch Addons
+(*this will not be integrated into Catppuccin proper*)
 
 
 # INSTALL INSTRUCTIONS
