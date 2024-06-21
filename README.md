@@ -1,6 +1,6 @@
 # Scratch Catppuccin
 Catppuccin Mocha for Scratch using Scratch Addons
-(*the three other flavours are on the way*)
+(*the three other flavours are on the way, however so is this possibly being integrated into Catppuccin (organisation) proper*)
 
 
 # INSTALL INSTRUCTIONS
