@@ -4,9 +4,8 @@ Catppuccin for Scratch using Scratch Addons
 
 
 # INSTALL INSTRUCTIONS
-(Pictures are from Firefox [Technically Librewolf])
-First, choose your flavours. There's Mocha, Macchiato (i always misspell that one), Frappé, and Latte. That list is from Dark --> Light. (Only light mode is Latte) 
-
+(Pictures are from Firefox)
+First, choose your flavour.
 
 Next, download your version from the releases page.
 
